@@ -1,0 +1,53 @@
+*{
+    margin-top: 5px;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #BA9595;
+	font-family: Arial, Helvetica, sans-serif;
+}
+body{
+	background-color: #BA9595;
+    margin: 10px auto;
+	width: 1300px;
+    height: 100%;
+}
+.wrap{
+	background-color: #BA9595;
+    margin: 10px auto;
+	width: 1300px;
+	height: 600px;
+}
+.Navbar{
+	height: 50px;
+	text-align: end;
+	font-weight: bolder;
+}
+.hi{
+	float: left;
+}
+.judul{
+	font-size: xx-large;
+	width: 800px;
+	float: left;
+}
+.gambar{
+	float: right;
+}
+.teks{
+	font-size: x-large;
+	width: 800px;
+	float: left;
+	font-weight: bold;
+}
+.copyright{
+	float: left;
+	width: 100px;
+}
+.email{
+	float: right;
+}
+.footer{
+    background-color: #BA9595;
+    float: left;
+    height: 30px;
+}
